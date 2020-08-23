@@ -9,4 +9,4 @@ Happy Watching ^-^
 
 they don't have a conceptual about LICENSE.
 
-so i release this registry with MIT LICENSE
+so i release this registry under MIT LICENSE
